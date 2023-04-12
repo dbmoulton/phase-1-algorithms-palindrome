@@ -14,6 +14,11 @@ function isPalindrome(str) {
 
 /*
   Add written explanation of your solution here
+  assign a const to the lenth of string
+  assing a variable to the first character of the string
+  run an if loop that matched the character to the character on the oposite end. couning in from both sides.
+  return false if it can't complete the loop
+  return true if look runs without failing. 
 */
 
 // You can run `node index.js` to view these console logs
